@@ -1,0 +1,6 @@
+## ignoreing dataset and other extra images
+data/
+*.jpg
+
+## ignore the virtual environment folder
+cvenv/
